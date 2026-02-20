@@ -66,3 +66,8 @@ They outperform traditional polished ads because they:
 - Improve conversion rates
 
 This project demonstrates how structured prompt engineering can be applied in real-world AI marketing workflows.
+
+## 🎥 Generated UGC Video
+
+Instagram Reel Style Video:
+https://www.instagram.com/reel/DU_F_ejD1Nu/?utm_source=ig_web_button_share_sheet
